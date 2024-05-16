@@ -34,4 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarlengliz&show_icons=true&locale=en" alt="omarlengliz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarlengliz&" alt="omarlengliz" /></p>
-[![committers.top badge](https://user-badge.committers.top/TUNISIA/omarlengliz.svg)](https://user-badge.committers.top/REGION/USERNAME](https://user-badge.committers.top/TUNISIA/omarlengliz)
+[![committers.top badge](https://user-badge.committers.top/TUNISIA/omarlengliz.svg)][(https://user-badge.committers.top/REGION/USERNAME](https://user-badge.committers.top/TUNISIA/omarlengliz))]
