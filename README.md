@@ -2,7 +2,7 @@
 <h3 align="center">Web & Mobile developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarlengliz&label=Profile%20views&color=0e75b6&style=flat" alt="omarlengliz" /> </p>
-<p align="right"><a href="https://wakatime.com/@4ee73189-d22b-47e7-a8d0-3c8c1ab2e487"><img src="https://wakatime.com/badge/user/4ee73189-d22b-47e7-a8d0-3c8c1ab2e487.svg" alt="Total time coded since May 16 2024" /></a></p>
+<p align="left"><a href="https://wakatime.com/@4ee73189-d22b-47e7-a8d0-3c8c1ab2e487"><img src="https://wakatime.com/badge/user/4ee73189-d22b-47e7-a8d0-3c8c1ab2e487.svg" alt="Total time coded since May 16 2024" /></a></p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarlengliz" alt="omarlengliz" /></a> </p>
